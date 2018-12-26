@@ -1,0 +1,11 @@
+{
+  "name": "mopw-road-inventory-system",
+  "version": "1.0.0",
+  "description": "the main goal of the project is to develop and design road inventory management system form ministry of public work. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Ali Sultani",
+  "license": "ISC"
+}
